@@ -37,7 +37,7 @@ Il faut afficher ces 3 produits dans un tableau qui possèdera les colonnes  :
 Dans le tableau, la colonne 'Quantité' ne devrait contenir que des `<input>` (pensez au bon type d'input, avec des contraintes cohérentes comme on parle d'une quantité) : 
 - Ces inputs doivent êtres **controllés par React**. 
 - Les données des produits devront être gérées dans le `state`.
-- Le prix total de l'item ainsi que le montant total de la commande devraient se mettre à jour automatiquement à l'édition d'une quantité pour un item de la commande.
+- Le prix total de l'item devrait se mettre à jour automatiquement à l'édition d'une quantité pour un item de la commande.
 
 ## Pour approfondir (étapes bonus)
 
